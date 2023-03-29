@@ -9,7 +9,7 @@ In this project, a real business problem was analyzed using real data.
 
 ## Technologies used
 
-Python
-MS Excel
-Jupyter Notebook, Pandas, Numpy
-Tableau
+*  Python
+*  MS Excel
+*  Jupyter Notebook, Pandas, Numpy
+*  Tableau
